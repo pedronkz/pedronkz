@@ -1,6 +1,6 @@
 # Olá, eu sou o Pedro Henrique! 👋
 
-Sou fascinado por tecnologia e atualmente foco meus esforços em análise de dados e segurança digital.
+Estagiário em Análise de Dados e estudante de Segurança da Informação. Busco unir a inteligência dos dados com estratégias de proteção digital.
 
 ### 🚀 O que estou fazendo agora:
 - **Estágio:** Atuo com **Análise de Dados**, onde desenvolvo automações e estudo pipelines com Python.
