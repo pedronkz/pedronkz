@@ -15,4 +15,4 @@ Estagiário em Análise de Dados e estudante de Segurança da Informação. Busc
 
 ---
 **Vamos conversar?**
-[LinkedIn]((https://www.linkedin.com/in/pedro-henrique-de-oliveira-ferreira-b2319a262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
+[LinkedIn](https://www.linkedin.com/in/pedro-henrique-de-oliveira-ferreira-b2319a262)
