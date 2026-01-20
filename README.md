@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou o Pedro Henrique! 👋
 
-<!--
-**pedronkz/pedronkz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou fascinado por tecnologia e atualmente foco meus esforços em análise de dados e segurança digital.
 
-Here are some ideas to get you started:
+### 🚀 O que estou fazendo agora:
+- **Estágio:** Atuo com **Análise de Dados**, onde desenvolvo automações e estudo pipelines com Python.
+- **Acadêmico:** Sou pesquisador em uma **Iniciação Científica** focada em Cybersecurity e Inteligência Analítica.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Minhas Ferramentas:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+---
+**Vamos conversar?**
+[LinkedIn]((https://www.linkedin.com/in/pedro-henrique-de-oliveira-ferreira-b2319a262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
