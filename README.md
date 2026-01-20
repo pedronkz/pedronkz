@@ -1,4 +1,4 @@
-# Olá, eu sou o Pedro Henrique! 👋
+# Olá, eu sou o Pedro Ferreira! 👋
 
 Estagiário em Análise de Dados e estudante de Segurança da Informação. Busco unir a inteligência dos dados com estratégias de proteção digital.
 
